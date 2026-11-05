@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-carrier-operations-flutter",
+  "capabilityKey": "planned:ecommerce:carrier-operations",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_carrier_operations_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/carrier-operations.md",
+  "presentationPlan": "projects/ecommerce/flutter/carrier-operations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
